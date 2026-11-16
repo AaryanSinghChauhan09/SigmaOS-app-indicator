@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-app-indicator"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS app-indicator component - desktop"
+
+[lib]
+name = "app_indicator"
+path = "src/lib.rs"
